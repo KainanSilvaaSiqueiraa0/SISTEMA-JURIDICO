@@ -1,0 +1,7 @@
+C:\Users\android\Documents\C# juridico\Sistema_JURIDICO\Sistema_JURIDICO\obj\Debug\net5.0-windows\Sistema_JURIDICO.csproj.AssemblyReference.cache
+C:\Users\android\Documents\C# juridico\Sistema_JURIDICO\Sistema_JURIDICO\obj\Debug\net5.0-windows\Sistema_JURIDICO.Form1.resources
+C:\Users\android\Documents\C# juridico\Sistema_JURIDICO\Sistema_JURIDICO\obj\Debug\net5.0-windows\Sistema_JURIDICO.csproj.GenerateResource.cache
+C:\Users\android\Documents\C# juridico\Sistema_JURIDICO\Sistema_JURIDICO\obj\Debug\net5.0-windows\Sistema_JURIDICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\C# juridico\Sistema_JURIDICO\Sistema_JURIDICO\obj\Debug\net5.0-windows\Sistema_JURIDICO.AssemblyInfoInputs.cache
+C:\Users\android\Documents\C# juridico\Sistema_JURIDICO\Sistema_JURIDICO\obj\Debug\net5.0-windows\Sistema_JURIDICO.AssemblyInfo.cs
+C:\Users\android\Documents\C# juridico\Sistema_JURIDICO\Sistema_JURIDICO\obj\Debug\net5.0-windows\Sistema_JURIDICO.csproj.CoreCompileInputs.cache
